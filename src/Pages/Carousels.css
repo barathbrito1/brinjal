@@ -1,0 +1,31 @@
+#borderShadow { 
+    border-radius: 22px;
+    background: #212529;
+    box-shadow:  -20px -20px 40px #111315,
+                 20px 20px 40px #31373d;
+} 
+
+#mainBox :hover{
+    background-color: white;
+    transform:scale(0.9)    
+}
+
+#borderShadow{
+    background: #fff !important;
+    border-radius: 10px !important;
+    min-height: inherit !important;
+    padding: 20px !important;
+    transition: .5s !important;
+    border: #ccc solid 1px !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    flex-direction: column !important;
+}
+
+#borderShadow img{
+    width: 80%;
+    height: 155px !important;
+    object-fit: contain !important;
+    border-radius: 22px !important;
+}

@@ -1,0 +1,30 @@
+.logo{
+    width: 167%;
+    transform: scale(0.6);
+    background: transparent;
+    margin-top: -60px;
+    margin-left: -23px; 
+    height: 150px;
+}
+
+.ant-layout-header{
+    background: #cbcbcb !important;
+}
+
+.containerHeader{
+    display: flex;
+    justify-content: space-between;
+}
+
+.containerHeader svg{
+    font-size : 30px;
+   
+}
+.containerHeader span{
+    margin-right: 15%;
+}
+
+.iconHolder{
+    width: 200px;
+    color: white;
+}

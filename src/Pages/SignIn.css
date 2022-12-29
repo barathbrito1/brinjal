@@ -1,0 +1,84 @@
+#container-2 {
+    background-color: rgb(33, 37, 41);
+}
+
+#mainContainer-2 {
+    display: flex;
+}
+
+#subContainer-2 {
+    background-color: white;
+    margin-left: 250px;
+    height: 650px;
+    width: 400px;
+}
+
+#signin {
+    text-align: center;
+    margin-top: 115px;
+}
+
+#pass-2 {
+    margin-left: 50px;
+    width: 300px;
+    border-radius: 5px;
+}
+
+#login {
+    margin-left: 50px;
+    width: 300px;
+    border-radius: 5px;
+}
+
+#button-2 {
+    margin-left: 50px;
+    margin-left: 50px;
+    width: 300px;
+    background-color: rgb(33, 37, 41);
+    color: white;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
+#button-2:hover{
+    transform: scale(1.1);
+}
+
+#imgS {
+    height: 650px;
+}
+
+.space1{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.space2{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+#logo{
+    height: 30px;
+    width: 30px;
+}
+
+#btn-2{
+    background-color: rgb(24,119,242);
+    padding: 6px;
+    margin-left: 50px;
+    margin-left: 50px;
+    width: 300px;
+    color: white;
+    margin-top: 40px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#btn:hover{
+    transform: scale(1.1);
+}
+
+#p-2{
+    margin-left: 190px;
+    margin-top: 40px;
+}

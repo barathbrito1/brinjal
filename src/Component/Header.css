@@ -1,0 +1,9 @@
+.iconHolders{
+    color: white;
+    height: 30px;
+}
+
+.iconHolders span{
+    margin-left: 20px;
+   font-size: 25px;
+}
