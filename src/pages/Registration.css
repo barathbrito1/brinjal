@@ -1,0 +1,90 @@
+*{
+    font-family: sans-serif;
+}
+#Container{
+    background-color:   rgb(33,37,41);
+}
+h3{
+    text-align: center;
+}
+#mainContainer{
+    height: 650px;
+    width: 700px;
+    background-color:rgb(247,255,255);
+    margin-left: 200px;
+}
+#subContainer{
+    display: flex;
+}
+img{
+    height: 700px;
+    width: 400px;
+}
+
+input{
+    outline: none;
+    border: none;
+    border-bottom: 2px solid rgba(0,0,0,0.5);
+    font-size: 16px;
+    font-weight: 500;
+
+}
+
+#adress{
+    width: 500px;
+}
+#dropDown{
+    outline: none;
+    border: none;
+    border-bottom: 2px solid rgba(0,0,0,0.2);
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.space{
+    margin-top: 40px;
+}
+
+#fn{
+    width: 230px;
+}
+
+#ln{
+    margin-left: 40px;
+    width: 230px;
+}
+
+#city{
+    width: 230px;
+}
+
+#state{
+    margin-left: 40px;
+    width: 230px;
+}
+
+#pc{
+    width: 500px;
+}
+
+#num{
+    width: 450px;
+}
+#mail{
+    width: 500px;
+}
+#pass{
+    width: 500px;
+}
+
+#button{
+  margin-left: 190px;
+  border: none;
+  padding: 9px;
+  border-radius: 5px;
+  background-color:  rgb(33,37,41) ;
+  color: white;
+}
+#button:hover{
+    transform: scale(1.1);
+}
